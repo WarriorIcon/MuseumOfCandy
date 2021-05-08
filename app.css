@@ -53,7 +53,7 @@ body {
 }
 
 .navbar.unscrolled {
-    background: blue;
+    background:none;
     transition: background 1s;
 }
 
