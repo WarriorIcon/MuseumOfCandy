@@ -52,11 +52,9 @@ body {
     transition: background 1s;
 }
 
-.navbar.unscrolled {
-    background:none;
-    transition: background 1s;
+.navbar {
+    transition: 500ms;
 }
-
 
 @media (max-width:1200px) {
     #headingGroup h1 {
